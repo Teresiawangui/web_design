@@ -1,27 +1,116 @@
 #header{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     padding-left: 15%;
+    
 }
 .img1{
-    border: solid 2px
-    padding-left: 15%;
-    text-align: center;
+border: solid 2px;
+border-radius: 100%;
 
 }
 #header2{
     display: flex;
     padding-left: 15%;
+    gap: 5%;
 }
 #store{
     display: flex;
     text-align: center;
-    padding-left: 15%;
+    padding-left: 35%;
+    width: 350px;
+    height: 300px;
 }
 #images{
     display: flex;
+    
+}
+#newarrivals{
+    display: flex;
     text-align: center;
     padding-left: 15%;
+    gap: 5%;
+}
+#variety{
+    display: flex;
+    text-align: center;
+    gap: 5%;
+    padding-left: 15%;
+}
+#images2{
+    display: flex;
+    text-align: center;
+    padding-left: 15%;
+    
+}
+#aprilstore{
+    display: flex;
+    text-align: center;
+    padding-left: 15%;
+}
+#reference{
+    display: flex;
+    text-align: center;
+    gap: 5%;
+    padding-left: 15%;
+}
+#Hossain{
+    text-align: center;
+    
+}
+#more{
+    display: flex;
+    gap: 5%;
+    text-align: center;
+    padding-left: 15%;
+}
+#items{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    padding-left: 15%;
+}
+.head{
+    padding-left: 25%;
+}
+#Sajjiad{
+    text-align: center;
+
+} 
+#footer{
+    gap: 5%;
+    display: flex;
+    padding-left: 10%;
+}
+@media screen and(max-width:480px) {
+    
+}
+#header{
+    display: flex;
+    gap: 50px;
+    padding-left: 15%;
+    
+}
+.img1{
+border: solid 2px;
+border-radius: 100%;
+
+}
+#header2{
+    display: flex;
+    padding-left: 15%;
+    gap: 5%;
+}
+#store{
+    display: flex;
+    text-align: center;
+    padding-left: 35%;
+    width: 350px;
+    height: 300px;
+}
+#images{
+    display: flex;
+    
 }
 #newarrivals{
     display: flex;
@@ -53,8 +142,7 @@
 }
 #Hossain{
     text-align: center;
-    border: solid 2px;
-    border-radius: 40px;
+    
 }
 #more{
     display: flex;
@@ -62,16 +150,32 @@
     text-align: center;
     padding-left: 15%;
 }
-#footer{
-    gap: 70%;
-}
-@media all and (max width:500px){body
-}
 #items{
     display: flex;
     gap: 20px;
     text-align: center;
     padding-left: 15%;
 }
+.head{
+    padding-left: 25%;
+}
+#Sajjiad{
+    text-align: center;
 
 }
+#footer{
+    gap: 5%;
+    display: flex;
+    padding-left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
